@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Graphical-Reports" target="1.5" />
+      <module name="Graphical-Reports" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
